@@ -1,4 +1,4 @@
-.video__iframes{
+.video__iframes {
   width: 1100px;
  margin-top: 50px;
  margin-bottom: -55px;
@@ -7,3 +7,4 @@
   flex-wrap: nowrap;
   justify-content: space-between;
   list-style-type: none;
+}
